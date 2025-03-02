@@ -1,6 +1,6 @@
 # Song Identifier
 
-A project that identifies songs and artists from lyric snippets using two distinct methods, tested on the Spotify dataset.
+A project that identifies songs and artists from lyric snippets using two distinct methods - simple NLP based approach and BM25(Best Match 25) approach.
 
 ## 1. Introduction
 
